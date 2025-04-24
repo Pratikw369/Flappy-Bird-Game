@@ -1,0 +1,1 @@
+pillar_y+500,pillar_x,10,10
